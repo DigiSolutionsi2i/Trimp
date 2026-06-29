@@ -18,4 +18,4 @@ This is the Best SEO report you can find in internet while being open source and
 # Installation
 ```bash
    git clone https://github.com/digisolutionsi2i/trimp
-```bash
+```
