@@ -16,7 +16,6 @@ Most Websites SEO report often are closed-source. WE DigiSolutionsi2i wanted to 
 This is the Best SEO report you can find in internet while being open source and auditable by security researchers
 
 # Installation
-
-**bash**
+```bash```
    git clone https://github.com/digisolutionsi2i/trimp
-**bash**
+```bash```
